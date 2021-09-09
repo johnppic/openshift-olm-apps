@@ -21,7 +21,7 @@ Navigate to Administrator -> Operators -> Operator Hub
 
 Take this time to review the many community and official Red Hat supported operators.
 
-* [Concepts](https://docs.openshift.com/container-platform/4.5/operators/understanding_olm/olm-understanding-olm.html)
+* [Concepts](https://docs.openshift.com/container-platform/latest/operators/understanding_olm/olm-understanding-olm.html)
 
 cluster logging
 ---------------
@@ -30,8 +30,8 @@ As a cluster administrator, you can deploy cluster logging to aggregate all the 
 
 Using Elasticsearch/Kibana to view your logs instead of the command line or web console can make it sigficantly easier to view logs across all of your pods or even namespace.
 
-* [About](https://docs.openshift.com/container-platform/4.5/logging/cluster-logging.html)
-* [Installation](https://docs.openshift.com/container-platform/4.5/logging/cluster-logging-deploying.html)
+* [About](https://docs.openshift.com/container-platform/latest/logging/cluster-logging.html)
+* [Installation](https://docs.openshift.com/container-platform/latest/logging/cluster-logging-deploying.html)
 
 elasticsearch
 -------------
@@ -76,9 +76,9 @@ Install Openshift Serverless operator and Knative Serving in preparation for cre
 Once the cluster has cluster has Knative Serving installed create a [sample app](https://docs.openshift.com/container-platform/4.5/serverless/serving-creating-managing-apps.html).
 
 * [Serverless](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
-* [Installing Operator](https://docs.openshift.com/container-platform/4.5/serverless/installing_serverless/installing-openshift-serverless.html)
-* [Installing Knative Serving](https://docs.openshift.com/container-platform/4.5/serverless/installing_serverless/installing-knative-serving.html#installing-knative-serving)
-* [Installing Knative Eventing](https://docs.openshift.com/container-platform/4.5/serverless/installing_serverless/installing-knative-eventing.html)
+* [Installing Operator](https://docs.openshift.com/container-platform/latest/serverless/installing_serverless/installing-openshift-serverless.html)
+* [Installing Knative Serving](https://docs.openshift.com/container-platform/latest/serverless/installing_serverless/installing-knative-serving.html#installing-knative-serving)
+* [Installing Knative Eventing](https://docs.openshift.com/container-platform/latest/serverless/installing_serverless/installing-knative-eventing.html)
 
 knative
 -------
@@ -89,7 +89,7 @@ In particular we will focus on Knative serving. Allows automatic scaling based o
 
 Builds in Openshift are already handled by the integrated Build system covered in previous lessons.
 
-Knative eventing is an amazing tool for responding to events. It's a more involved topic and we may cover it if we have more time.
+Knative eventing is an amazing tool for responding to events, but is more involved than our time allows.
 
 
 * [Knative](https://knative.dev/)
