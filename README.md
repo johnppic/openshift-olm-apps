@@ -21,7 +21,7 @@ Navigate to Administrator -> Operators -> Operator Hub
 
 Take this time to review the many community and official Red Hat supported operators.
 
-* [Concepts](https://docs.openshift.com/container-platform/latest/operators/understanding_olm/olm-understanding-olm.html)
+* [Concepts](https://docs.openshift.com/container-platform/4.5/operators/understanding_olm/olm-understanding-olm.html)
 
 cluster logging
 ---------------
