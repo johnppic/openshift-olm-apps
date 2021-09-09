@@ -11,7 +11,6 @@ Topics
 * Fluentd
 * OpenShift Serverless Operator
 * Knative
-* Build your own Knative App
 
 operator lifecycle manager
 --------------------------
