@@ -76,9 +76,9 @@ Install Openshift Serverless operator and Knative Serving in preparation for cre
 Once the cluster has cluster has Knative Serving installed create a [sample app](https://docs.openshift.com/container-platform/4.5/serverless/serving-creating-managing-apps.html).
 
 * [Serverless](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
-* [Installing Operator](https://docs.openshift.com/container-platform/latest/serverless/installing_serverless/installing-openshift-serverless.html)
-* [Installing Knative Serving](https://docs.openshift.com/container-platform/latest/serverless/installing_serverless/installing-knative-serving.html#installing-knative-serving)
-* [Installing Knative Eventing](https://docs.openshift.com/container-platform/latest/serverless/installing_serverless/installing-knative-eventing.html)
+* [Installing Operator](https://docs.openshift.com/container-platform/latest/serverless/admin_guide/install-serverless-operator.html)
+* [Installing Knative Serving](https://docs.openshift.com/container-platform/latest/serverless/admin_guide/installing-knative-serving.html)
+* [Installing Knative Eventing](https://docs.openshift.com/container-platform/4.9/serverless/admin_guide/installing-knative-eventing.html)
 
 knative
 -------
