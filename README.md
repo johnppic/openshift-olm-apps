@@ -66,20 +66,6 @@ Log into Kibana and perform these basic tasks to get an understanding:
 * Use the filter feature at the top left to find all the logs from a single namespace
 * Adjust the time window top right to see logs from different times
 
-openshift serverless operator
------------------------------
-
-Knative Serving on OpenShift Container Platform enables developers to write cloud-native applications using serverless architecture. Serverless is a cloud computing model where application developers don’t need to provision servers or manage scaling for their applications. These routine tasks are abstracted away by the platform, allowing developers to push code to production much faster than in traditional models.
-
-Install Openshift Serverless operator and Knative Serving in preparation for creating a serverless app.
-
-Once the cluster has cluster has Knative Serving installed create a [sample app](https://docs.openshift.com/container-platform/4.5/serverless/serving-creating-managing-apps.html).
-
-* [Serverless](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
-* [Installing Operator](https://docs.openshift.com/container-platform/latest/serverless/admin_guide/install-serverless-operator.html)
-* [Installing Knative Serving](https://docs.openshift.com/container-platform/latest/serverless/admin_guide/installing-knative-serving.html)
-* [Installing Knative Eventing](https://docs.openshift.com/container-platform/4.9/serverless/admin_guide/installing-knative-eventing.html)
-
 knative
 -------
 
@@ -97,3 +83,16 @@ Knative eventing is an amazing tool for responding to events, but is more involv
 * [Getting Started](https://www.oreilly.com/library/view/getting-started-with/9781492047025/ch01.html)
 * [Official Knative example application](https://knative.dev/docs/serving/samples/hello-world/helloworld-go/)
 
+openshift serverless operator
+-----------------------------
+
+Knative Serving on OpenShift Container Platform enables developers to write cloud-native applications using serverless architecture. Serverless is a cloud computing model where application developers don’t need to provision servers or manage scaling for their applications. These routine tasks are abstracted away by the platform, allowing developers to push code to production much faster than in traditional models.
+
+Install Openshift Serverless operator and Knative Serving in preparation for creating a serverless app.
+
+Once the cluster has cluster has Knative Serving installed create a [sample app](https://docs.openshift.com/container-platform/4.5/serverless/serving-creating-managing-apps.html).
+
+* [Serverless](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
+* [Installing Operator](https://docs.openshift.com/container-platform/latest/serverless/admin_guide/install-serverless-operator.html)
+* [Installing Knative Serving](https://docs.openshift.com/container-platform/latest/serverless/admin_guide/installing-knative-serving.html)
+* [Installing Knative Eventing](https://docs.openshift.com/container-platform/4.9/serverless/admin_guide/installing-knative-eventing.html)
